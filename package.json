@@ -1,0 +1,27 @@
+{
+  "name": "sale",
+  "version": "1.0.0",
+  "description": "Boutique Online",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelgobz/Sale.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Michael Goboola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelgobz/Sale/issues"
+  },
+  "homepage": "https://github.com/michaelgobz/Sale#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
